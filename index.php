@@ -34,9 +34,9 @@
 				<p>
 					I'm from Taguig, Philippines, Not too long ago I was studying a Bachelor of Arts.<br/>
 					Web Development was <strong>completely foreign</strong> to me 10 months ago.
-					Since then I've completed Harvard's CS50 Intro to Computer Science, <strong>I'm developing websites at the moment.</strong><br/>
-					I'm playing around the tools and techniques that I see around around the internet towards front end web development.<br/>
-				</a><strong>I'm having a lot of fun!</strong>
+					Since then I've completed Harvard's CS50 Intro to Computer Science, Learnt a few CMS, Languages, Frameworks, Extensions, Command line, Git, Database and so many other stuff.<strong></strong><br/>
+					<strong>I'm having a lot of fun </strong>playing around the tools and techniques that I see around around the internet towards front end web development.<br/>
+
 				<br/><br/>
 				
 			</p>
@@ -92,7 +92,7 @@
 			<div class="grid__item two-thirds">
 				<h1>My Partner</h2>
 					<p><span>His name is <a href="http://giolliano.com">Giolliano Sulit</a>, he's my other half.</span><br/>
-						He's works as a Web Developer full time working in Melbourne, Australia. <br/><br/>
+						He is a web developer in melbourne. <br/><br/>
 						We're doing it long distance right now, but it's only <strong>temporary.</strong><br/>
 						We've got a <a href="http://giollianoandrachelle.com">blog</a> together, you can read more about us there.<br/>
 						He's taught and guided me through <em>a lot</em> and has <strong>always been there.</strong><br/><br/>
