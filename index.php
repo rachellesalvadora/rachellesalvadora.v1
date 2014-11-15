@@ -15,14 +15,17 @@
 
 		<div class="grid__item one-whole bg-1">
 			<div class="wrap top-30">
+				<!--
 				<img class="logo" src="img/logo.png" alt="manak" />
+				-->
+
 				<ul class="nav nav--banner nav-top">
-					<li><a href="#cs50">CS50</a></li>
-					<li><a href="#mypartner">My Partner</a></li>
-					<li><a href="#philippines">Philippines Holiday</a></li>
-					<li><a href="#singapore">Singapore Holiday</a></li>
-					<li><a href="#contact">Contact</a></li>
-					<li><em><a href="http://blog.rachellesalvadora.com" target="_blank">My Blog</a></em></li>
+					<li class="nav-top-li"><a href="#cs50">CS50</a></li>
+					<li class="nav-top-li"><a href="#mypartner">My Partner</a></li>
+					<li class="nav-top-li"><a href="#philippines">Philippines Holiday</a></li>
+					<li class="nav-top-li"><a href="#singapore">Singapore Holiday</a></li>
+					<li class="nav-top-li"><a href="#contact">Contact</a></li>
+					<li class="nav-top-li"><em><a href="http://blog.rachellesalvadora.com" target="_blank">My Blog</a></em></li>
 				</ul>
 			</div>
 		</div>
@@ -96,7 +99,7 @@
 						Yup, I know what you're thinking. He is like the <strong>wizard </strong> and I'm the <strong>apprentice</strong>.<strong> </strong><br/><br/>
 						He is my boyfriend, partner, lover, tutor, and best friend. We've got a <a href="http://giollianoandrachelle.com">blog</a> together, you can read more about us there.<br/><br/>
 						Except from the internet, I leant most of what I know about web development from <em>him</em>.<br/><br/>
-						<strong>He really loves me.</strong>
+						<strong></strong>
 					</p>
 				</div>
 			</div>
