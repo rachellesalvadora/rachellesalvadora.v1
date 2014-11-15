@@ -881,7 +881,12 @@ ul, ol, dd {
   float: left; }
 /* line 21, ../scss/partial/_rachelle.scss */
 .grid .bg-1 {
-  background: #fff; }
+  background: #fff;
+  background: #fff;
+  background-image: url("../img/bg-rach.jpg");
+  height: 961px;
+  background-size: 100%;
+  background-repeat-y: no-repeat; }
   /* line 23, ../scss/partial/_rachelle.scss */
   .grid .bg-1 ul {
     float: left;
