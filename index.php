@@ -93,9 +93,9 @@
 				<h1>My Partner</h2>
 					<p><span>His name is <a href="http://giolliano.com">Giolliano Sulit</a>, he's my other half.</span><br/>
 						He is a web developer in melbourne. <br/><br/>
-						Yup, I know what you're thinking. He is like the <strong>wizard </strong> and I'm the <strong>apprentice</strong>.<strong> </strong><br/>
-						We've got a <a href="http://giollianoandrachelle.com">blog</a> together, you can read more about us there.<br/>
-						Except from the internet, I leant most of what I know about web development from <em>him</em> and he has<strong>an answer</strong> to my questions (even the real life ones).<br/><br/>
+						Yup, I know what you're thinking. He is like the <strong>wizard </strong> and I'm the <strong>apprentice</strong>.<strong> </strong><br/><br/>
+						He is my boyfriend, partner, lover, tutor, and best friend. We've got a <a href="http://giollianoandrachelle.com">blog</a> together, you can read more about us there.<br/><br/>
+						Except from the internet, I leant most of what I know about web development from <em>him</em>.<br/><br/>
 						<strong>He really loves me.</strong>
 					</p>
 				</div>
